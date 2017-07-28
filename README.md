@@ -1,24 +1,28 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# README
 
-Things you may want to cover:
+Stickerly is part of my #14in14 challenge.  14 Rails Apps in 14 Days.  This is challenge number 4.  The idea of Stickerly is to replace the human need for yellow sticky notes.  Save the truffula trees, use Stickerly!  Like the others, this app will be upgraded significantly with the next challenge of #14in14revamped.
 
-* Ruby version
+*****Users*****
 
-* System dependencies
+[] Can log in
 
-* Configuration
+[] Can log out
 
-* Database creation
+[] Can make notes
 
-* Database initialization
+[] Can read notes that they write
 
-* How to run the test suite
+[] CANNOT read other's notes
 
-* Services (job queues, cache servers, search engines, etc.)
+[] Can edit a note
 
-* Deployment instructions
+[] Can delete a note
 
-* ...
+**********************
+
+[] Future upgrades to be updated after the challenge is complete!
+
+
+
