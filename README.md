@@ -6,23 +6,32 @@ Stickerly is part of my #14in14 challenge.  14 Rails Apps in 14 Days.  This is c
 
 *****Users*****
 
-[] Can log in
+[X] Can log in
 
-[] Can log out
+[X] Can log out
 
-[] Can make notes
+[X] Can make notes
 
-[] Can read notes that they write
+[X] Can read notes that they write
 
-[] CANNOT read other's notes
+[X] CANNOT read other's notes
 
-[] Can edit a note
+[X] Can edit a note
 
-[] Can delete a note
+[X] Can delete a note
 
 **********************
 
-[] Future upgrades to be updated after the challenge is complete!
+[X] Future upgrades to be updated after the challenge is complete!
 
+[] Change styling and add animation?
+
+[] Better landing page
+
+[] Users can share notes 
+
+[] Friends
+
+[] Only share with friends
 
 
