@@ -1,6 +1,6 @@
 class NotesController < ApplicationController
   
-  before_action: :find_note, only: [:edit, :update, :show, :destroy]
+  before_action :find_note, only: [:edit, :update, :show, :destroy]
 
   def index
     @notes = Note.all.order('created_at DESC')
@@ -41,6 +41,6 @@ private
   def note_params
   	params.require(:note).permit(:title, :content)
   end
-  
+
 
 end
